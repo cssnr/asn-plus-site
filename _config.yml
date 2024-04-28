@@ -1,0 +1,17 @@
+timezone: America/Los_Angeles
+encoding: utf-8
+
+author: Shane
+site_name: ASN Plus
+site_url: https://asn-plus.cssnr.com
+
+github_name: cssnr/asn-plus
+github_url: https://github.com/cssnr/asn-plus
+
+chrome_id: phcbcnpmcbkcnijkpfohkdmcofcofibh
+chrome_url: https://chromewebstore.google.com/detail/asn-plus/phcbcnpmcbkcnijkpfohkdmcofcofibh
+
+firefox_id: asn-plus
+firefox_url: https://addons.mozilla.org/addon/asn-plus
+
+discord_webhook: https://discord.com/api/webhooks/242137648028712961/4xM7SXClH_i8we_epG6AXMaqhueg5L5oAVf1dnLw1_el05OxZ-JVfph-QrcQwPkOMJem
