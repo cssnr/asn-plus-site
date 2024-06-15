@@ -3,6 +3,7 @@
 [![Chrome Web Store Version](https://img.shields.io/chrome-web-store/v/phcbcnpmcbkcnijkpfohkdmcofcofibh?label=chrome&logo=googlechrome)](https://chrome.google.com/webstore/detail/asn-plus/phcbcnpmcbkcnijkpfohkdmcofcofibh)
 [![Mozilla Add-on Version](https://img.shields.io/amo/v/asn-plus?label=firefox&logo=firefox)](https://addons.mozilla.org/addon/asn-plus)
 [![GitHub Release Version](https://img.shields.io/github/v/release/cssnr/asn-plus?logo=github)](https://github.com/cssnr/asn-plus/releases/latest)
+[![Pages](https://github.com/cssnr/asn-plus-site/actions/workflows/build.yaml/badge.svg)](https://github.com/cssnr/asn-plus-site/actions/workflows/build.yaml)
 # ASN Plus Site
 
 *   Website: https://asn-plus.cssnr.com
