@@ -4,8 +4,8 @@ const searchParams = new URLSearchParams(window.location.search)
 const version = searchParams.get('version') || 'unknown'
 
 const noAlertVersion = '0.2.4'
-const uninstallMessage = 'Uninstall Feedback for ASN Plus Web Extension.'
 const discordUsername = 'ASN Plus'
+const uninstallMessage = `${discordUsername} Uninstall, Version: **${version}**`
 const discordAvatar = 'https://asn-plus.cssnr.com/media/logo.png'
 
 const uninstallForm = document.getElementById('uninstall-form')
