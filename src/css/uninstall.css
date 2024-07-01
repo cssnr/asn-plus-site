@@ -1,5 +1,6 @@
 body {
-    background: url('https://picsum.photos/1920/1080') no-repeat center fixed;
+    background: url('https://df.cssnr.com/api/random/album/shane/JetPhotos/')
+        no-repeat center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
