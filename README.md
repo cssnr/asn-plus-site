@@ -16,18 +16,13 @@
 *   [Google Chrome Web Store](https://chrome.google.com/webstore/detail/asn-plus/phcbcnpmcbkcnijkpfohkdmcofcofibh)
 *   [Mozilla Firefox Add-ons](https://addons.mozilla.org/addon/asn-plus)
 
-<a href="https://chrome.google.com/webstore/detail/asn-plus/phcbcnpmcbkcnijkpfohkdmcofcofibh" target="_blank">
-    <img alt="Chrome" src="https://raw.githubusercontent.com/raivo-otp/issuer-icons/master/vectors/google.com/google-chrome.svg" width="42" height="42" /></a>
-<a href="https://addons.mozilla.org/addon/asn-plus" target="_blank">
-    <img alt="Firefox" src="https://raw.githubusercontent.com/raivo-otp/issuer-icons/master/vectors/firefox.com/firefox.svg" width="42" height="42" /></a>
-<a href="https://chrome.google.com/webstore/detail/asn-plus/phcbcnpmcbkcnijkpfohkdmcofcofibh" target="_blank">
-    <img alt="Edge" src="https://raw.githubusercontent.com/raivo-otp/issuer-icons/master/vectors/microsoft.com/microsoft-edge.svg" width="42" height="42" /></a>
-<a href="https://chrome.google.com/webstore/detail/asn-plus/phcbcnpmcbkcnijkpfohkdmcofcofibh" target="_blank">
-    <img alt="Opera" src="https://raw.githubusercontent.com/raivo-otp/issuer-icons/master/vectors/opera.com/opera.svg" width="42" height="42" /></a>
-<a href="https://chrome.google.com/webstore/detail/asn-plus/phcbcnpmcbkcnijkpfohkdmcofcofibh" target="_blank">
-    <img alt="Brave" src="https://raw.githubusercontent.com/raivo-otp/issuer-icons/master/vectors/brave.com/brave.svg" width="42" height="42" /></a>
-<a href="https://chrome.google.com/webstore/detail/asn-plus/phcbcnpmcbkcnijkpfohkdmcofcofibh" target="_blank">
-    <img alt="Vivaldi" src="https://raw.githubusercontent.com/raivo-otp/issuer-icons/master/vectors/vivaldi.com/vivaldi.svg" width="42" height="42" /></a>
-  
+[![Chrome](https://raw.githubusercontent.com/smashedr/logo-icons/master/browsers/chrome_48.png)](https://chromewebstore.google.com/detail/asn-plus/phcbcnpmcbkcnijkpfohkdmcofcofibh)
+[![Firefox](https://raw.githubusercontent.com/smashedr/logo-icons/master/browsers/firefox_48.png)](https://addons.mozilla.org/addon/asn-plus)
+[![Edge](https://raw.githubusercontent.com/smashedr/logo-icons/master/browsers/edge_48.png)](https://chromewebstore.google.com/detail/asn-plus/phcbcnpmcbkcnijkpfohkdmcofcofibh)
+[![Chromium](https://raw.githubusercontent.com/smashedr/logo-icons/master/browsers/chromium_48.png)](https://chromewebstore.google.com/detail/asn-plus/phcbcnpmcbkcnijkpfohkdmcofcofibh)
+[![Brave](https://raw.githubusercontent.com/smashedr/logo-icons/master/browsers/brave_48.png)](https://chromewebstore.google.com/detail/asn-plus/phcbcnpmcbkcnijkpfohkdmcofcofibh)
+[![Vivaldi](https://raw.githubusercontent.com/smashedr/logo-icons/master/browsers/vivaldi_48.png)](https://chromewebstore.google.com/detail/asn-plus/phcbcnpmcbkcnijkpfohkdmcofcofibh)
+[![Opera](https://raw.githubusercontent.com/smashedr/logo-icons/master/browsers/opera_48.png)](https://chromewebstore.google.com/detail/asn-plus/phcbcnpmcbkcnijkpfohkdmcofcofibh)
+
 All **Chromium** Based Browsers can install the extension from the
 [Chrome Web Store](https://chrome.google.com/webstore/detail/asn-plus/phcbcnpmcbkcnijkpfohkdmcofcofibh).
