@@ -7,7 +7,7 @@ redirect.pathname = '/docs/'
 
 const version = url.searchParams.get('version') || 'unknown'
 
-const noAlertVersion = '0.2.4'
+const noAlertVersion = '0.2.5'
 const discordUsername = 'ASN Plus'
 const uninstallMessage = `${discordUsername} Uninstall, Version: **${version}**`
 const discordAvatar = 'https://asn-plus.cssnr.com/media/logo.png'
