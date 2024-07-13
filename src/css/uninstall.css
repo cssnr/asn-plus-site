@@ -1,9 +1,5 @@
 body {
-    background: url('https://df.cssnr.com/api/random/album/shane/JetPhotos/')
-        no-repeat center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
+    background: url('https://images.cssnr.com/aviation') no-repeat center fixed;
     background-size: cover;
 }
 
@@ -12,18 +8,48 @@ body {
     margin-right: 15px;
 }
 
+/*#login-outer {*/
+/*    background: rgba(0 0 0 / 50%);*/
+/*    filter: drop-shadow(15px 15px 12px #000000);*/
+/*    backdrop-filter: blur(6px);*/
+/*}*/
+
+/*.form-control {*/
+/*    background: rgba(0 0 0 / 50%);*/
+/*}*/
+
+/*.navbar,*/
+/*.footer {*/
+/*    background: rgba(0 0 0 / 50%) !important;*/
+/*    backdrop-filter: blur(6px);*/
+/*}*/
+
 #login-outer {
-    background: rgba(0 0 0 / 50%);
+    backdrop-filter: blur(6px);
     filter: drop-shadow(15px 15px 12px #000000);
-    backdrop-filter: blur(6px);
 }
 
-.form-control {
+[data-bs-theme='dark'] #login-outer {
     background: rgba(0 0 0 / 50%);
 }
+[data-bs-theme='light'] #login-outer {
+    background: rgba(255 255 255 / 50%);
+}
 
-.navbar,
-.footer {
-    background: rgba(0 0 0 / 50%) !important;
+[data-bs-theme='dark'] .form-control {
+    background: rgba(0 0 0 / 50%);
+}
+[data-bs-theme='light'] .form-control {
+    background: rgba(255 255 255 / 50%);
+}
+
+[data-bs-theme='dark'] .navbar,
+[data-bs-theme='dark'] .footer {
     backdrop-filter: blur(6px);
+    background: rgba(0 0 0 / 50%) !important;
+}
+[data-bs-theme='light'] .navbar,
+[data-bs-theme='light'] .footer {
+    backdrop-filter: blur(6px);
+    background: rgba(255 255 255 / 50%) !important;
 }
