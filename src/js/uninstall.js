@@ -62,10 +62,10 @@ document.addEventListener('DOMContentLoaded', async function () {
         bugReport.classList.add('animate__shakeX')
     }
 
-    // await tsParticles.load({
-    //     id: 'tsparticles',
-    //     url: '/config/tsparticles.json',
-    // })
+    await tsParticles.load({
+        id: 'tsparticles',
+        url: '/config/tsparticles.json',
+    })
     // const particles = tsParticles.domItem(0)
     // console.debug('particles:', particles)
     // particles.play()
@@ -86,7 +86,7 @@ async function formSubmit(event) {
     console.debug('formSubmit:', event)
     event.preventDefault()
     errorAlert.style.display = 'none'
-    const url = event.target.elements['discord-webhook'].value
+    const url = event.target.elements['relay-url'].value
     const notUsed = event.target.elements['not-used'].checked
     const notExpected = event.target.elements['not-expected'].checked
     const notWorking = event.target.elements['not-working'].checked

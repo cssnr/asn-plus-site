@@ -1,9 +1,9 @@
 ---
 layout: default
 permalink: /uninstall/
-noindex: true
 title: Uninstall
 description: Uninstall Feedback.
+noindex: true
 ---
 
 <div class="d-flex align-items-center h-100">
@@ -24,7 +24,7 @@ description: Uninstall Feedback.
         </div>
         {% include alerts.html %}
         <form id="uninstall-form">
-            <input type="hidden" value="{{ site.discord_webhook }}" id="discord-webhook" hidden="hidden">
+            <input type="hidden" value="{{ site.relay_url }}" id="relay-url" hidden="hidden">
             <div class="form-check form-switch fs-5">
                 <input class="form-check-input" type="checkbox" role="switch" id="not-used">
                 <label class="form-check-label text-success-emphasis" for="not-used">Do Not Need or Not Used</label>
@@ -54,4 +54,5 @@ description: Uninstall Feedback.
 </div> <!-- d-flex -->
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/UAParser.js/1.0.37/ua-parser.min.js" integrity="sha512-LAchvH0Y4sxYM1ouOaqHQ6WbSXvOgkioPaiyW0oPOFNNMNfpsBEpvzYmsxgDf8pQM/fMaMdxYP/nFenquTAkdw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tsparticles/3.0.2/tsparticles.bundle.min.js" integrity="sha512-MM4W2ywPFL6GyTpBoj7PU6nyv2jJg47rLI8kEAL8vk20RHtAqIe9KdweahKUk+OivrdpZoMYfMi271ZdS6tRnQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script type="text/javascript" src="{{ "/js/uninstall.js" | relative_url }}"></script>
